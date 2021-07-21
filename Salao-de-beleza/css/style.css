@@ -1,0 +1,88 @@
+* .navbar{
+    background-color: darksalmon;
+    text-align: center;
+
+}
+
+.navbar-brand {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.navbar-brand a{
+    text-align: center;
+}
+
+.nav-item a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.corpo {
+    padding: 20px;
+}
+.espaco {
+    background-color: darksalmon;
+    padding: 20px;
+}
+
+.sobre h1{
+    padding: 20px;
+}
+
+.content {
+    background-color: darksalmon;
+    justify-content: center;
+    padding: 20px;
+
+}
+
+.formulario {
+    width: 100%;
+    max-width: 900px;
+
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    margin-left: 400px;
+}
+
+.field {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 3px;
+}
+
+.formulario textarea {
+    height: 150px;
+}
+
+.formulario button {
+    font-size: 20px;
+    align-self: center;
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    background: dimgray;
+    border-style: unset;
+    color: white;
+    font-weight: 700;
+}
+
+.fim {
+    text-align: center;
+    padding: 20px;
+
+}
+
+.powered-by {
+    padding: 20px;
+    color: darksalmon;
+}
+
+.rede-social img {
+    margin: 0 5px;
+    padding-top: 20px;
+}
